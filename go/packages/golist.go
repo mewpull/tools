@@ -23,7 +23,7 @@ import (
 	"time"
 	"unicode"
 
-	"golang.org/x/tools/go/internal/packagesdriver"
+	"golang.org/x/tools/go/external/packagesdriver"
 	"golang.org/x/tools/internal/gopathwalk"
 	"golang.org/x/tools/internal/semver"
 	"golang.org/x/tools/internal/span"

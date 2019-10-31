@@ -22,7 +22,7 @@ import (
 	"time"
 
 	"golang.org/x/tools/go/ast/astutil"
-	"golang.org/x/tools/go/internal/cgo"
+	"golang.org/x/tools/go/external/cgo"
 )
 
 var ignoreVendor build.ImportMode

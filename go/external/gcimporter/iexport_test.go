@@ -24,7 +24,7 @@ import (
 	"testing"
 
 	"golang.org/x/tools/go/buildutil"
-	"golang.org/x/tools/go/internal/gcimporter"
+	"golang.org/x/tools/go/external/gcimporter"
 	"golang.org/x/tools/go/loader"
 )
 
